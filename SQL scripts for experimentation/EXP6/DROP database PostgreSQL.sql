@@ -1,0 +1,2 @@
+
+DROP DATABASE exp1 WITH (FORCE);
